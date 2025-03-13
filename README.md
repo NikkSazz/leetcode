@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NikkSazz/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/NikkSazz/leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
