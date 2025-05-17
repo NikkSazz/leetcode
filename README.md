@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/NikkSazz/leetcode/tree/master/0075-sort-colors) |
 | [1293-three-consecutive-odds](https://github.com/NikkSazz/leetcode/tree/master/1293-three-consecutive-odds) |
 | [2048-build-array-from-permutation](https://github.com/NikkSazz/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/NikkSazz/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/NikkSazz/leetcode/tree/master/2048-build-array-from-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/NikkSazz/leetcode/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/NikkSazz/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
