@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/NikkSazz/leetcode/tree/master/0075-sort-colors) |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/NikkSazz/leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/NikkSazz/leetcode/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [2284-smallest-value-of-the-rearranged-number](https://github.com/NikkSazz/leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 <!---LeetCode Topics End-->
