@@ -62,4 +62,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/NikkSazz/leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/NikkSazz/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 <!---LeetCode Topics End-->
