@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/NikkSazz/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/NikkSazz/leetcode/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/NikkSazz/leetcode/tree/master/0135-candy) |
 | [1293-three-consecutive-odds](https://github.com/NikkSazz/leetcode/tree/master/1293-three-consecutive-odds) |
 | [2048-build-array-from-permutation](https://github.com/NikkSazz/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/NikkSazz/leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2284-smallest-value-of-the-rearranged-number](https://github.com/NikkSazz/leetcode/tree/master/2284-smallest-value-of-the-rearranged-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/NikkSazz/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/NikkSazz/leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
