@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/NikkSazz/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NikkSazz/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Database
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/NikkSazz/leetcode/tree/master/0038-count-and-say) |
 | [3194-find-words-containing-character](https://github.com/NikkSazz/leetcode/tree/master/3194-find-words-containing-character) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NikkSazz/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Simulation
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/NikkSazz/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/NikkSazz/leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Matrix
 |  |
 | ------- |
